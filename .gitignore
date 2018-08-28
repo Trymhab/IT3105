@@ -1,2 +1,4 @@
 .DS_Store
-Project1/mnist-zip/
+mnist-zip/
+__pycache__/
+*.pdf
