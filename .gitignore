@@ -2,3 +2,5 @@
 mnist-zip/
 __pycache__/
 *.pdf
+probeview/
+netsaver/
